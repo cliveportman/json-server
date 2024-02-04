@@ -1,9 +1,9 @@
 {
   "name": "json-server",
   "version": "0.0.1",
-  "main": "src/api/server.js",
+  "main": "api/server.js",
   "scripts": {
-    "start": "node src/api/server.js"
+    "start": "node api/server.js"
   },
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
